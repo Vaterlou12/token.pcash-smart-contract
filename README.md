@@ -17,5 +17,5 @@ The pct.token smart contract is designed to distribute shares.
 # Deploying
 
 ```
-cleos set contract <your_account> ./build/Release/rct.token rct.token.wasm rct.token.abi
+cleos set contract <your_account> ./build/Release/rct.token token.pc.wasm token.pc.abi
 ```
