@@ -1,6 +1,6 @@
 # token.pc-smart-contract
 
-The pct.token smart contract is designed to distribute shares.
+The token.pc smart contract is designed to distribute shares.
 
 # Dependencies
 
